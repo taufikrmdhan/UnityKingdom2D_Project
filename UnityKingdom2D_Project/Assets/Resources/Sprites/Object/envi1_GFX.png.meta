@@ -1,0 +1,3470 @@
+fileFormatVersion: 2
+guid: 97739a9d521644640b15ba247d542f3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8819626266199642217
+    second: envi1_GFX_0
+  - first:
+      213: 4323945248673749933
+    second: envi1_GFX_1
+  - first:
+      213: -4621463398682903393
+    second: envi1_GFX_2
+  - first:
+      213: 3429662173916829363
+    second: envi1_GFX_3
+  - first:
+      213: -1531603552493753968
+    second: envi1_GFX_4
+  - first:
+      213: 8525685148617659554
+    second: envi1_GFX_5
+  - first:
+      213: -5223300608688702891
+    second: envi1_GFX_6
+  - first:
+      213: 6928996880171982122
+    second: envi1_GFX_7
+  - first:
+      213: -8422133143728698154
+    second: envi1_GFX_8
+  - first:
+      213: -6898344070028516230
+    second: envi1_GFX_9
+  - first:
+      213: -1954336170493971936
+    second: envi1_GFX_10
+  - first:
+      213: 830713462560607483
+    second: envi1_GFX_11
+  - first:
+      213: 1548155069183487643
+    second: envi1_GFX_12
+  - first:
+      213: -541137843884428191
+    second: envi1_GFX_13
+  - first:
+      213: -7876139717559186293
+    second: envi1_GFX_14
+  - first:
+      213: -3344760878393685065
+    second: envi1_GFX_15
+  - first:
+      213: 2396234439074427368
+    second: envi1_GFX_16
+  - first:
+      213: 1270877094274208059
+    second: envi1_GFX_17
+  - first:
+      213: 704785964259927514
+    second: envi1_GFX_18
+  - first:
+      213: -4506786770580884569
+    second: envi1_GFX_19
+  - first:
+      213: 1264898398796235301
+    second: envi1_GFX_20
+  - first:
+      213: -8891647719978973656
+    second: envi1_GFX_21
+  - first:
+      213: -529760480942675978
+    second: envi1_GFX_22
+  - first:
+      213: 7427556788937685726
+    second: envi1_GFX_23
+  - first:
+      213: 337856780135164612
+    second: envi1_GFX_24
+  - first:
+      213: 7256335961061017313
+    second: envi1_GFX_25
+  - first:
+      213: -2138753415531867238
+    second: envi1_GFX_26
+  - first:
+      213: -4265451598135756784
+    second: envi1_GFX_27
+  - first:
+      213: 5088845058796003580
+    second: envi1_GFX_28
+  - first:
+      213: -2649424024216805743
+    second: envi1_GFX_29
+  - first:
+      213: 6045041352276089793
+    second: envi1_GFX_30
+  - first:
+      213: 2542276544377195942
+    second: envi1_GFX_31
+  - first:
+      213: -5604957311046390931
+    second: envi1_GFX_32
+  - first:
+      213: -2932807701910816070
+    second: envi1_GFX_33
+  - first:
+      213: -8935704750341860033
+    second: envi1_GFX_34
+  - first:
+      213: 7877950752592626171
+    second: envi1_GFX_35
+  - first:
+      213: 2961218897440790010
+    second: envi1_GFX_36
+  - first:
+      213: 4900224910802522307
+    second: envi1_GFX_37
+  - first:
+      213: 7378745715702736239
+    second: envi1_GFX_38
+  - first:
+      213: -9204100313843185698
+    second: envi1_GFX_39
+  - first:
+      213: 1191756355963358893
+    second: envi1_GFX_40
+  - first:
+      213: -3578133927282380345
+    second: envi1_GFX_41
+  - first:
+      213: 7963534665644726734
+    second: envi1_GFX_42
+  - first:
+      213: -9106994973268401767
+    second: envi1_GFX_43
+  - first:
+      213: -9025545483729073467
+    second: envi1_GFX_44
+  - first:
+      213: 8053959214914358734
+    second: envi1_GFX_45
+  - first:
+      213: -7443732042844115971
+    second: envi1_GFX_46
+  - first:
+      213: -3051465747689129649
+    second: envi1_GFX_47
+  - first:
+      213: -1384632405878186933
+    second: envi1_GFX_48
+  - first:
+      213: 5485401675128387022
+    second: envi1_GFX_49
+  - first:
+      213: 193159262150223236
+    second: envi1_GFX_50
+  - first:
+      213: -191444853964806938
+    second: envi1_GFX_51
+  - first:
+      213: 2553916017626132352
+    second: envi1_GFX_52
+  - first:
+      213: 5451251398546998792
+    second: envi1_GFX_53
+  - first:
+      213: 5519311760352542157
+    second: envi1_GFX_54
+  - first:
+      213: -3038852719985077650
+    second: envi1_GFX_55
+  - first:
+      213: 7187501928121032556
+    second: envi1_GFX_56
+  - first:
+      213: 2410725035897215964
+    second: envi1_GFX_57
+  - first:
+      213: 6186602095779579768
+    second: envi1_GFX_58
+  - first:
+      213: -626640847602985778
+    second: envi1_GFX_59
+  - first:
+      213: 822994817173012270
+    second: envi1_GFX_60
+  - first:
+      213: -8378449530072659970
+    second: envi1_GFX_61
+  - first:
+      213: -87696431113261133
+    second: envi1_GFX_62
+  - first:
+      213: -8466006354102825103
+    second: envi1_GFX_63
+  - first:
+      213: -5470593566192463277
+    second: envi1_GFX_64
+  - first:
+      213: 1979151393183429888
+    second: envi1_GFX_65
+  - first:
+      213: -4517638422599170777
+    second: envi1_GFX_66
+  - first:
+      213: 224649571978816494
+    second: envi1_GFX_67
+  - first:
+      213: 3431245130425283542
+    second: envi1_GFX_68
+  - first:
+      213: 3504740645825100304
+    second: envi1_GFX_69
+  - first:
+      213: -1513337730116514089
+    second: envi1_GFX_70
+  - first:
+      213: -1129586239926373670
+    second: envi1_GFX_71
+  - first:
+      213: -724227393222438765
+    second: envi1_GFX_72
+  - first:
+      213: -1341046931972664682
+    second: envi1_GFX_73
+  - first:
+      213: -6552228223504745845
+    second: envi1_GFX_74
+  - first:
+      213: 3394728975447238839
+    second: envi1_GFX_75
+  - first:
+      213: -1148935967662499171
+    second: envi1_GFX_76
+  - first:
+      213: -4471917005525373567
+    second: envi1_GFX_77
+  - first:
+      213: -3332393481489358698
+    second: envi1_GFX_78
+  - first:
+      213: 4349840160727075967
+    second: envi1_GFX_79
+  - first:
+      213: -4396987176930998613
+    second: envi1_GFX_80
+  - first:
+      213: 1955064042672373225
+    second: envi1_GFX_81
+  - first:
+      213: 7420577752198311140
+    second: envi1_GFX_82
+  - first:
+      213: -353327608208750220
+    second: envi1_GFX_83
+  - first:
+      213: -3557282682380343503
+    second: envi1_GFX_84
+  - first:
+      213: 4785793104939984787
+    second: envi1_GFX_85
+  - first:
+      213: 7583178958190502117
+    second: envi1_GFX_86
+  - first:
+      213: -2161801808503819482
+    second: envi1_GFX_87
+  - first:
+      213: -5776302834578070428
+    second: envi1_GFX_88
+  - first:
+      213: 4430261218291500886
+    second: envi1_GFX_89
+  - first:
+      213: -7246702416443527860
+    second: envi1_GFX_90
+  - first:
+      213: -8610735656256579415
+    second: envi1_GFX_91
+  - first:
+      213: 7827806023303535697
+    second: envi1_GFX_92
+  - first:
+      213: -2501775288655640329
+    second: envi1_GFX_93
+  - first:
+      213: -1668344445466200437
+    second: envi1_GFX_94
+  - first:
+      213: -1106059882496696602
+    second: envi1_GFX_95
+  - first:
+      213: 953045833486212456
+    second: envi1_GFX_96
+  - first:
+      213: -21413671296673585
+    second: envi1_GFX_97
+  - first:
+      213: 4965828319269483021
+    second: envi1_GFX_98
+  - first:
+      213: -2183035822893379106
+    second: envi1_GFX_99
+  - first:
+      213: -8014054862414805060
+    second: envi1_GFX_100
+  - first:
+      213: -3715848847504941355
+    second: envi1_GFX_101
+  - first:
+      213: -4335817313623280477
+    second: envi1_GFX_102
+  - first:
+      213: 5955941316594876228
+    second: envi1_GFX_103
+  - first:
+      213: -7104056194349198825
+    second: envi1_GFX_104
+  - first:
+      213: 840243161380578920
+    second: envi1_GFX_105
+  - first:
+      213: 8649606295915383243
+    second: envi1_GFX_106
+  - first:
+      213: 1928399131724881571
+    second: envi1_GFX_107
+  - first:
+      213: 5901285623099227309
+    second: envi1_GFX_108
+  - first:
+      213: 5540047766575629602
+    second: envi1_GFX_109
+  - first:
+      213: -3473404028198772232
+    second: envi1_GFX_110
+  - first:
+      213: -148712932783733893
+    second: envi1_GFX_111
+  - first:
+      213: -2505838070141670597
+    second: envi1_GFX_112
+  - first:
+      213: 6786897535492620343
+    second: envi1_GFX_113
+  - first:
+      213: 2009383024528349544
+    second: envi1_GFX_114
+  - first:
+      213: 2065223643923505514
+    second: envi1_GFX_115
+  - first:
+      213: -1550875470986149233
+    second: envi1_GFX_116
+  - first:
+      213: 8034373145713527362
+    second: envi1_GFX_117
+  - first:
+      213: -2488552420119777912
+    second: envi1_GFX_118
+  - first:
+      213: 2406612924929115516
+    second: envi1_GFX_119
+  - first:
+      213: 3783569043499770840
+    second: envi1_GFX_120
+  - first:
+      213: -2981984771186664359
+    second: envi1_GFX_121
+  - first:
+      213: 3774921377097604072
+    second: envi1_GFX_122
+  - first:
+      213: 5028173679365087149
+    second: envi1_GFX_123
+  - first:
+      213: 8302794775753554393
+    second: envi1_GFX_124
+  - first:
+      213: -342994022577824838
+    second: envi1_GFX_125
+  - first:
+      213: 123768517863457622
+    second: envi1_GFX_126
+  - first:
+      213: -3666113808496961087
+    second: envi1_GFX_127
+  - first:
+      213: 937216938032403514
+    second: envi1_GFX_128
+  - first:
+      213: -8272905459653794763
+    second: envi1_GFX_129
+  - first:
+      213: -5314170024838491882
+    second: envi1_GFX_130
+  - first:
+      213: -1677712205604008473
+    second: envi1_GFX_131
+  - first:
+      213: 1319375735311673218
+    second: envi1_GFX_132
+  - first:
+      213: 1492122198782867580
+    second: envi1_GFX_133
+  - first:
+      213: -391721973765431703
+    second: envi1_GFX_134
+  - first:
+      213: -1103327869112866873
+    second: envi1_GFX_135
+  - first:
+      213: 3917415359994156230
+    second: envi1_GFX_136
+  - first:
+      213: 6448019324850497851
+    second: envi1_GFX_137
+  - first:
+      213: 54085974763003869
+    second: envi1_GFX_138
+  - first:
+      213: 2963899404408695998
+    second: envi1_GFX_139
+  - first:
+      213: 2745863803719617681
+    second: envi1_GFX_140
+  - first:
+      213: 4186540498177052245
+    second: envi1_GFX_141
+  - first:
+      213: 2261977460869426252
+    second: envi1_GFX_142
+  - first:
+      213: 1457256508573269375
+    second: envi1_GFX_143
+  - first:
+      213: 1698755765201863215
+    second: envi1_GFX_144
+  - first:
+      213: -2597504652749017507
+    second: envi1_GFX_145
+  - first:
+      213: 4435785771957322740
+    second: envi1_GFX_146
+  - first:
+      213: -6773885892429914146
+    second: envi1_GFX_147
+  - first:
+      213: 3388579529019113840
+    second: envi1_GFX_148
+  - first:
+      213: 3246192952460324680
+    second: envi1_GFX_149
+  - first:
+      213: 1741219822119776919
+    second: envi1_GFX_150
+  - first:
+      213: -123335077060278557
+    second: envi1_GFX_151
+  - first:
+      213: -2007363089594307543
+    second: envi1_GFX_152
+  - first:
+      213: 5063931601151601461
+    second: envi1_GFX_153
+  - first:
+      213: -5374632689097660651
+    second: envi1_GFX_154
+  - first:
+      213: 7681999284290560662
+    second: envi1_GFX_155
+  - first:
+      213: 4938391913806662849
+    second: envi1_GFX_156
+  - first:
+      213: -5327864417256071405
+    second: envi1_GFX_157
+  - first:
+      213: -1970305028448701038
+    second: envi1_GFX_158
+  - first:
+      213: -1848922823398109858
+    second: envi1_GFX_159
+  - first:
+      213: 4678192876524557166
+    second: envi1_GFX_160
+  - first:
+      213: -591264490146273722
+    second: envi1_GFX_161
+  - first:
+      213: -7589468522415990018
+    second: envi1_GFX_162
+  - first:
+      213: -5295455778150000604
+    second: envi1_GFX_163
+  - first:
+      213: 9190332758478187477
+    second: envi1_GFX_164
+  - first:
+      213: -3468478510401338463
+    second: envi1_GFX_165
+  - first:
+      213: 8722248169459693673
+    second: envi1_GFX_166
+  - first:
+      213: 7473444607535586757
+    second: envi1_GFX_167
+  - first:
+      213: -2667844264637247518
+    second: envi1_GFX_168
+  - first:
+      213: -3712587892586898889
+    second: envi1_GFX_169
+  - first:
+      213: 3535212791421023105
+    second: envi1_GFX_170
+  - first:
+      213: -7694675785832718141
+    second: envi1_GFX_171
+  - first:
+      213: -5129289155379340563
+    second: envi1_GFX_172
+  - first:
+      213: 6386694547788083736
+    second: envi1_GFX_173
+  - first:
+      213: 1498875057567009655
+    second: envi1_GFX_174
+  - first:
+      213: -4890772985952415591
+    second: envi1_GFX_175
+  - first:
+      213: 8008828633273912457
+    second: envi1_GFX_176
+  - first:
+      213: 2817959860295958351
+    second: envi1_GFX_177
+  - first:
+      213: -5613159753534509682
+    second: envi1_GFX_178
+  - first:
+      213: -2048680842832507124
+    second: envi1_GFX_179
+  - first:
+      213: 4497616118560342924
+    second: envi1_GFX_180
+  - first:
+      213: 7259204902367032970
+    second: envi1_GFX_181
+  - first:
+      213: -5376231431755624737
+    second: envi1_GFX_182
+  - first:
+      213: -5873408014305765542
+    second: envi1_GFX_183
+  - first:
+      213: -1285201446417259336
+    second: envi1_GFX_184
+  - first:
+      213: 9026203569294631200
+    second: envi1_GFX_185
+  - first:
+      213: -8553631232425744450
+    second: envi1_GFX_186
+  - first:
+      213: 7507875249344320992
+    second: envi1_GFX_187
+  - first:
+      213: -3317330229748946682
+    second: envi1_GFX_188
+  - first:
+      213: 2493480634883920991
+    second: envi1_GFX_189
+  - first:
+      213: -5304182127076412579
+    second: envi1_GFX_190
+  - first:
+      213: -6489678020487876459
+    second: envi1_GFX_191
+  - first:
+      213: -969993526341006067
+    second: envi1_GFX_192
+  - first:
+      213: -9179229599933473006
+    second: envi1_GFX_193
+  - first:
+      213: 6889918651042759578
+    second: envi1_GFX_194
+  - first:
+      213: 6178914114037243853
+    second: envi1_GFX_195
+  - first:
+      213: 4954776052381475212
+    second: envi1_GFX_196
+  - first:
+      213: 1122599310721668090
+    second: envi1_GFX_197
+  - first:
+      213: -8626995835722752486
+    second: envi1_GFX_198
+  - first:
+      213: 7945535755873362669
+    second: envi1_GFX_199
+  - first:
+      213: -7243939517022879058
+    second: envi1_GFX_200
+  - first:
+      213: -3599435290395050983
+    second: envi1_GFX_201
+  - first:
+      213: 5359724908874208775
+    second: envi1_GFX_202
+  - first:
+      213: 1846791963032150841
+    second: envi1_GFX_203
+  - first:
+      213: 172045203113280199
+    second: envi1_GFX_204
+  - first:
+      213: -5785786679114163647
+    second: envi1_GFX_205
+  - first:
+      213: 1252394683686552364
+    second: envi1_GFX_206
+  - first:
+      213: -644464548579801278
+    second: envi1_GFX_207
+  - first:
+      213: 7770444873102290659
+    second: envi1_GFX_208
+  - first:
+      213: 8964840358955291105
+    second: envi1_GFX_209
+  - first:
+      213: 3260078580320717692
+    second: envi1_GFX_210
+  - first:
+      213: 6501207515271457094
+    second: envi1_GFX_211
+  - first:
+      213: 7138216976096316408
+    second: envi1_GFX_212
+  - first:
+      213: 9138448576570964220
+    second: envi1_GFX_213
+  - first:
+      213: 937455805145138959
+    second: envi1_GFX_214
+  - first:
+      213: -8454300042635209303
+    second: envi1_GFX_215
+  - first:
+      213: 7806827861257894850
+    second: envi1_GFX_216
+  - first:
+      213: 5939139963591809906
+    second: envi1_GFX_217
+  - first:
+      213: 6405604697012387637
+    second: envi1_GFX_218
+  - first:
+      213: -1497161945563507143
+    second: envi1_GFX_219
+  - first:
+      213: -6694829172181305358
+    second: envi1_GFX_220
+  - first:
+      213: 3621945967502437492
+    second: envi1_GFX_221
+  - first:
+      213: -4651600696184276517
+    second: envi1_GFX_222
+  - first:
+      213: -1857085258655242106
+    second: envi1_GFX_223
+  - first:
+      213: -4704997918053538997
+    second: envi1_GFX_224
+  - first:
+      213: -3187100089723658613
+    second: envi1_GFX_225
+  - first:
+      213: -3826058274753051600
+    second: envi1_GFX_226
+  - first:
+      213: 810956200373458217
+    second: envi1_GFX_227
+  - first:
+      213: -907480773860464131
+    second: envi1_GFX_228
+  - first:
+      213: 6661921354646235973
+    second: envi1_GFX_229
+  - first:
+      213: 3403547353984293581
+    second: envi1_GFX_230
+  - first:
+      213: 362489426333288075
+    second: envi1_GFX_231
+  - first:
+      213: -1007684015452885509
+    second: envi1_GFX_232
+  - first:
+      213: 3977052528847923945
+    second: envi1_GFX_233
+  - first:
+      213: -918618805455621955
+    second: envi1_GFX_234
+  - first:
+      213: -1612858657150128651
+    second: envi1_GFX_235
+  - first:
+      213: -7326031324956067102
+    second: envi1_GFX_236
+  - first:
+      213: 876406056907167010
+    second: envi1_GFX_237
+  - first:
+      213: -2497457899195710494
+    second: envi1_GFX_238
+  - first:
+      213: -3725989529878533728
+    second: envi1_GFX_239
+  - first:
+      213: 4636475600551594348
+    second: envi1_GFX_240
+  - first:
+      213: 1559155245270125030
+    second: envi1_GFX_241
+  - first:
+      213: -6834914697454787167
+    second: envi1_GFX_242
+  - first:
+      213: -7234324619253646249
+    second: envi1_GFX_243
+  - first:
+      213: -7404383877362827791
+    second: envi1_GFX_244
+  - first:
+      213: -586366217127068747
+    second: envi1_GFX_245
+  - first:
+      213: -8510390438874257777
+    second: envi1_GFX_246
+  - first:
+      213: 1777760571756135650
+    second: envi1_GFX_247
+  - first:
+      213: 5131229224644810383
+    second: envi1_GFX_248
+  - first:
+      213: -7907439261748825276
+    second: envi1_GFX_249
+  - first:
+      213: 3638960457383867117
+    second: envi1_GFX_250
+  - first:
+      213: -4421029006507865425
+    second: envi1_GFX_251
+  - first:
+      213: 1892830742677680442
+    second: envi1_GFX_252
+  - first:
+      213: -9048270865087705658
+    second: envi1_GFX_253
+  - first:
+      213: 2210978870720189186
+    second: envi1_GFX_254
+  - first:
+      213: 7732915300537303741
+    second: envi1_GFX_255
+  - first:
+      213: -2783922686726498316
+    second: envi1_GFX_256
+  - first:
+      213: 6839216618840552717
+    second: envi1_GFX_257
+  - first:
+      213: -6354070827456410523
+    second: envi1_GFX_258
+  - first:
+      213: -8879547727287219502
+    second: envi1_GFX_259
+  - first:
+      213: 1800280425388605981
+    second: envi1_GFX_260
+  - first:
+      213: -6088195888083914501
+    second: envi1_GFX_261
+  - first:
+      213: 1644259227028836478
+    second: envi1_GFX_262
+  - first:
+      213: 604549321978457537
+    second: envi1_GFX_263
+  - first:
+      213: -6121558207571965432
+    second: envi1_GFX_264
+  - first:
+      213: 2815195500977285054
+    second: envi1_GFX_265
+  - first:
+      213: -5338845841832263373
+    second: envi1_GFX_266
+  - first:
+      213: 2040866026183629163
+    second: envi1_GFX_267
+  - first:
+      213: 2541205147990028647
+    second: envi1_GFX_268
+  - first:
+      213: -8783910887950240935
+    second: envi1_GFX_269
+  - first:
+      213: -5107705224277218125
+    second: envi1_GFX_270
+  - first:
+      213: 1553364930022803316
+    second: envi1_GFX_271
+  - first:
+      213: -8094102265195470603
+    second: envi1_GFX_272
+  - first:
+      213: 2741885867984922998
+    second: envi1_GFX_273
+  - first:
+      213: 3299921190965975065
+    second: envi1_GFX_274
+  - first:
+      213: 6981214719549943902
+    second: envi1_GFX_275
+  - first:
+      213: -4369184453260658707
+    second: envi1_GFX_276
+  - first:
+      213: -2846527931636846173
+    second: envi1_GFX_277
+  - first:
+      213: -6352125105039567633
+    second: envi1_GFX_278
+  - first:
+      213: -2768310113246199039
+    second: envi1_GFX_279
+  - first:
+      213: -6076517512440759524
+    second: envi1_GFX_280
+  - first:
+      213: 1997947805347194547
+    second: envi1_GFX_281
+  - first:
+      213: -467686227513959363
+    second: envi1_GFX_282
+  - first:
+      213: -4330896787070964913
+    second: envi1_GFX_283
+  - first:
+      213: -1129932498427915001
+    second: envi1_GFX_284
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: envi1_GFX_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f2777a3a46a9580800000000000000
+      internalID: -8819626266199642217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabdf6f5b4db10c30800000000000000
+      internalID: 4323945248673749933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c390346834ddfb0800000000000000
+      internalID: -4621463398682903393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b618e7739b989f20800000000000000
+      internalID: 3429662173916829363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09922ec0fa6aebae0800000000000000
+      internalID: -1531603552493753968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4dd2eb871515670800000000000000
+      internalID: 8525685148617659554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a370845cb1387b0800000000000000
+      internalID: -5223300608688702891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dd07c73fdb82060800000000000000
+      internalID: 6928996880171982122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc10537829e1b80800000000000000
+      internalID: -8422133143728698154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7427870e982440a0800000000000000
+      internalID: -6898344070028516230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02272028b9dc0e4e0800000000000000
+      internalID: -1954336170493971936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc4f0e2e79478b00800000000000000
+      internalID: 830713462560607483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ee6eb35d62c7510800000000000000
+      internalID: 1548155069183487643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1647fb08ffd7d78f0800000000000000
+      internalID: -541137843884428191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c0a8d08a452b290800000000000000
+      internalID: -7876139717559186293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb88b0d3b50591d0800000000000000
+      internalID: -3344760878393685065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1b69bc682214120800000000000000
+      internalID: 2396234439074427368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31156ddbff03a110800000000000000
+      internalID: 1270877094274208059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5e462b917e7c900800000000000000
+      internalID: 704785964259927514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3b8156f4da471c0800000000000000
+      internalID: -4506786770580884569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c5395462dd8110800000000000000
+      internalID: 1264898398796235301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826cdb632858a9480800000000000000
+      internalID: -8891647719978973656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f72f5d36a9e5a8f0800000000000000
+      internalID: -529760480942675978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edafba1fb8bf31760800000000000000
+      internalID: 7427556788937685726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cae9e493fe40b400800000000000000
+      internalID: 337856780135164612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e64fe16c1fa3b460800000000000000
+      internalID: 7256335961061017313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d115a91f9152e0800000000000000
+      internalID: -2138753415531867238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018fe7eee521ec4c0800000000000000
+      internalID: -4265451598135756784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a98e7e953f9640800000000000000
+      internalID: 5088845058796003580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19edb2123ea5b3bd0800000000000000
+      internalID: -2649424024216805743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb96f6f41d44e350800000000000000
+      internalID: 6045041352276089793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad096c2c0bf74320800000000000000
+      internalID: 2542276544377195942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6be9dd95013732b0800000000000000
+      internalID: -5604957311046390931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba731d0fe29c47d0800000000000000
+      internalID: -2932807701910816070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f355a1a7fdffdf380800000000000000
+      internalID: -8935704750341860033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf10e46687a145d60800000000000000
+      internalID: 7877950752592626171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5d124e5ec581920800000000000000
+      internalID: 2961218897440790010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c097e70898110440800000000000000
+      internalID: 4900224910802522307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a5685222966660800000000000000
+      internalID: 7378745715702736239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7c05ca787744080800000000000000
+      internalID: -9204100313843185698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae82007718f98010800000000000000
+      internalID: 1191756355963358893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17f81a62ae75ec0800000000000000
+      internalID: -3578133927282380345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec95346f598248e60800000000000000
+      internalID: 7963534665644726734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd4478fb3965cf60800000000000000
+      internalID: 8053959214914358734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb6517452d82b890800000000000000
+      internalID: -7443732042844115971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49b7b0e11407a5d0800000000000000
+      internalID: -3051465747689129649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd227b92cc8cce0800000000000000
+      internalID: -1384632405878186933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec53c58b2cf002c40800000000000000
+      internalID: 5485401675128387022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856a85535d3ea200800000000000000
+      internalID: 193159262150223236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e95d6be9d75df0800000000000000
+      internalID: -191444853964806938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f29c83615517320800000000000000
+      internalID: 2553916017626132352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ceb7d34cb6ab40800000000000000
+      internalID: 5451251398546998792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdf270bdc8889c40800000000000000
+      internalID: 5519311760352542157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e625f8c3d83d3d5d0800000000000000
+      internalID: -3038852719985077650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd6103ce22fb360800000000000000
+      internalID: 7187501928121032556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb5bc7c5ad947120800000000000000
+      internalID: 2410725035897215964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87701adf3d93bd550800000000000000
+      internalID: 6186602095779579768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4dfdc1879bd47f0800000000000000
+      internalID: -626640847602985778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef70b771b84c9bb80800000000000000
+      internalID: -8378449530072659970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfac6f7f8078cef0800000000000000
+      internalID: -87696431113261133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f40856314b28a80800000000000000
+      internalID: -8466006354102825103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8dd9649cbd5c30800000000000000
+      internalID: 4349840160727075967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed30a07368c12b10800000000000000
+      internalID: 1955064042672373225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479016f896ab81bf0800000000000000
+      internalID: -353327608208750220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3972674097d8a6240800000000000000
+      internalID: 4785793104939984787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623355975bcbff1e0800000000000000
+      internalID: -2161801808503819482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65744720b137b7d30800000000000000
+      internalID: 4430261218291500886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85902da85808880800000000000000
+      internalID: -8610735656256579415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f884d341a8e74dd0800000000000000
+      internalID: -2501775288655640329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f12dc1707dfbcfc0800000000000000
+      internalID: -3473404028198772232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b2e8c3d89793dd0800000000000000
+      internalID: -2505838070141670597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86956b2f633c2eb10800000000000000
+      internalID: 2009383024528349544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82010dd9fe2a7ae0800000000000000
+      internalID: -1550875470986149233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d62d142c2e67dd0800000000000000
+      internalID: -2488552420119777912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e7f4bfffe18430800000000000000
+      internalID: 3783569043499770840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb5ee8fdf6336430800000000000000
+      internalID: 3774921377097604072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf568b2259a7c540800000000000000
+      internalID: 5028173679365087149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc2ad43a197b8e0800000000000000
+      internalID: -1677712205604008473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c787de3fb3515b410800000000000000
+      internalID: 1492122198782867580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c72db2162130b0f0800000000000000
+      internalID: -1103327869112866873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396192b967fb7950800000000000000
+      internalID: 6448019324850497851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebca5cd0ec2e12920800000000000000
+      internalID: 2963899404408695998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e41afd664991a30800000000000000
+      internalID: 4186540498177052245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7db22cd217393410800000000000000
+      internalID: 1457256508573269375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e687ec74fc3fbd0800000000000000
+      internalID: -2597504652749017507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_157
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f120e6a8f9f06b0800000000000000
+      internalID: -5327864417256071405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2953628040218a4e0800000000000000
+      internalID: -1970305028448701038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63520492a74ce040800000000000000
+      internalID: 4678192876524557166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efad26fe69acca690800000000000000
+      internalID: -7589468522415990018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db6abc83fe9a8f70800000000000000
+      internalID: 9190332758478187477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96832776f76ab0970800000000000000
+      internalID: 8722248169459693673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efcb32b6c9e9fad0800000000000000
+      internalID: -2667844264637247518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_173
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81235d16ad812a850800000000000000
+      internalID: 6386694547788083736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6e07a1fc0a12b0800000000000000
+      internalID: -5613159753534509682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f02d8b0af9193e0800000000000000
+      internalID: -2048680842832507124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_180
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c834cdac70eba6e30800000000000000
+      internalID: 4497616118560342924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a867c55d560edb460800000000000000
+      internalID: 7259204902367032970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8aef4ff9c365b0800000000000000
+      internalID: -5376231431755624737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a575f5697867d7ea0800000000000000
+      internalID: -5873408014305765542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_185
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0216b2ac254834d70800000000000000
+      internalID: 9026203569294631200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a39396b56b4980800000000000000
+      internalID: -8553631232425744450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_189
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5452982d6f9a9220800000000000000
+      internalID: 2493480634883920991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5372ab4572c366b0800000000000000
+      internalID: -5304182127076412579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a930ebe3288ed9f50800000000000000
+      internalID: 6889918651042759578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_195
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf56d046a9efb550800000000000000
+      internalID: 6178914114037243853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_196
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c816fcf6196e2c440800000000000000
+      internalID: 4954776052381475212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_197
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3d9a41026449f00800000000000000
+      internalID: 1122599310721668090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e98f4cef0c64880800000000000000
+      internalID: -8626995835722752486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_199
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de22ff63ca6344e60800000000000000
+      internalID: 7945535755873362669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_201
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c7ffb8cac3c0ec0800000000000000
+      internalID: -3599435290395050983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70692475861916a40800000000000000
+      internalID: 5359724908874208775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_203
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e392718f11a910800000000000000
+      internalID: 1846791963032150841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_204
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c280e0633a336200800000000000000
+      internalID: 172045203113280199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_205
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a96357ba1c4bfa0800000000000000
+      internalID: -5785786679114163647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_221
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c24a4eaacb34230800000000000000
+      internalID: 3621945967502437492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225d3f45aae992c00800000000000000
+      internalID: 876406056907167010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_253
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4ee686951e6280800000000000000
+      internalID: -9048270865087705658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_269
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9533a092697491680800000000000000
+      internalID: -8783910887950240935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: envi1_GFX_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcac890929cd19b0800000000000000
+      internalID: -5107705224277218125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
