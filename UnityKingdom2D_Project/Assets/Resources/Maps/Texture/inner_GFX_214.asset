@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: inner_GFX_214
+  m_Name: Inner_GFX_214
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 8740651373610637091, guid: b7c508142f1617a4fa0b97e9d845df10,
+  m_Sprite: {fileID: 5348219843658485841, guid: 996fbf4450283cb4187a04eb351c7915,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
