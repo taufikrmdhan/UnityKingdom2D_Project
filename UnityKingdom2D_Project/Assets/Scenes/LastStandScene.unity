@@ -6936,6 +6936,7 @@ GameObject:
   - component: {fileID: 220250976}
   - component: {fileID: 220250978}
   - component: {fileID: 220250977}
+  - component: {fileID: 220250979}
   m_Layer: 0
   m_Name: Stage
   m_TagString: Untagged
@@ -7020,6 +7021,18 @@ PlayableDirector:
     value: {fileID: 625467345}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &220250979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220250975}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30fd8641a8bed414d8ea33d88065c843, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &227790101
 GameObject:
   m_ObjectHideFlags: 0
@@ -8398,7 +8411,7 @@ GameObject:
   - component: {fileID: 625467345}
   - component: {fileID: 625467346}
   m_Layer: 0
-  m_Name: player
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8515,7 +8528,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 625467338}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 43.91, y: -14.7, z: 0}
+  m_LocalPosition: {x: 43.97, y: -14.68, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 998331288}
@@ -8541,8 +8554,8 @@ Rigidbody2D:
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_SleepingMode: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!95 &625467344
 Animator:
@@ -8674,7 +8687,11 @@ MonoBehaviour:
   State: 0
   IsAlive: 1
   HasRigid: 0
+  MagicPoint: 0
+  StaminaPoint: 0
   MoveSpeed: 5
+  HealthPoint: 200
+  AtkSpeed: 0.5
 --- !u!1 &872451030
 GameObject:
   m_ObjectHideFlags: 0
@@ -9720,6 +9737,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1538356758}
   - component: {fileID: 1538356759}
+  - component: {fileID: 1538356760}
   m_Layer: 0
   m_Name: Hole (1)
   m_TagString: Untagged
@@ -9793,6 +9811,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &1538356760
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1538356757}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: bf745ad9801bf324fa5f3bbd899d06d6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1539209758
 GameObject:
   m_ObjectHideFlags: 0
@@ -12756,6 +12793,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3014436549050717649}
   - component: {fileID: 1831888621768335402}
+  - component: {fileID: 2226488864911833844}
   m_Layer: 0
   m_Name: Hole
   m_TagString: Untagged
@@ -12763,6 +12801,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
+--- !u!95 &2226488864911833844
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2226488864911833843}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: bf745ad9801bf324fa5f3bbd899d06d6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!82 &2637138414985770723
 AudioSource:
   m_ObjectHideFlags: 0
@@ -13646,8 +13703,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1951700785
-  m_SortingLayer: 0
+  m_SortingLayerID: 1511267631
+  m_SortingLayer: -1
   m_SortingOrder: 1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -70240,8 +70297,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1951700785
-  m_SortingLayer: 0
+  m_SortingLayerID: 1511267631
+  m_SortingLayer: -1
   m_SortingOrder: 3
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -128372,8 +128429,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1951700785
-  m_SortingLayer: 0
+  m_SortingLayerID: 1511267631
+  m_SortingLayer: -1
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -138336,8 +138393,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1951700785
-  m_SortingLayer: 0
+  m_SortingLayerID: 1511267631
+  m_SortingLayer: -1
   m_SortingOrder: 2
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}

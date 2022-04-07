@@ -198,4 +198,4 @@ MonoBehaviour:
   IsFoward: 1
   MoveSpeed: 2
   HealthPoint: 200
-  AtkSpeed: 1
+  AtkSpeed: 15
