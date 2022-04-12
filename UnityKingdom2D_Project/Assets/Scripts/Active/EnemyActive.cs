@@ -30,7 +30,7 @@ public class EnemyActive : MonoBehaviour
             if (Creep == EnemySet.Witch)
             {
                 var location = RandomPosition(transform.position);
-                var vfx = Instantiate(gm.Origin_CastLight, location + new Vector3(0f, -0.56f, 0f), Quaternion.identity);
+                var vfx = Instantiate(gm.Origin_CastLight, location + new Vector3(-0.024f, -0.61f, 0f), Quaternion.identity);
                 Instantiate(gm.Origin_SkeltCreep, location, Quaternion.identity);
                 Destroy(vfx, 1f);
             }
@@ -49,7 +49,7 @@ public class EnemyActive : MonoBehaviour
     }
     private void Enemy_Movement(bool isFoward)
     {
-        var movetoward = Vector3.MoveTowards(transform.position, Target.position, MoveSpeed * Time.deltaTime);
+        var movetoward = Vector3.MoveTowards(transform.position, Target.position, MoveSpeed * Time.fixedDeltaTime);
         var towardpos = movetoward - transform.position;
         ChangeDirection(towardpos, isFoward);
         if (isFoward)
@@ -105,17 +105,48 @@ public class EnemyActive : MonoBehaviour
         var rand = basepos + new Vector3(x, y);
         return rand;
     }
+
+    private void OnDisable()
+    {
+        if (!gameObject.scene.isLoaded) return;
+        var gm = GameManager.Instance;
+        switch (Creep)
+        {
+            case EnemySet.Damaged:
+                var vfx_fire1 = Instantiate(gm.Origin_Fire1, transform.position, Quaternion.identity);
+                Destroy(vfx_fire1, 1f);
+                gm.KillPoint++;
+                break;
+            case EnemySet.Native:
+                Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity);
+                gm.GamePoint += 5;
+                break;
+            case EnemySet.Warrior:
+                Instantiate(gm.Origin_NativeCreep, transform.position, Quaternion.identity);
+                gm.GamePoint += 30;
+                break;
+            case EnemySet.Witch:
+                Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity);
+                gm.GamePoint += 30;
+                break;
+            case EnemySet.Skeleton:
+                var vfx_fire2 = Instantiate(gm.Origin_Fire2, transform.position, Quaternion.identity);
+                Destroy(vfx_fire2, 1f);
+                gm.GamePoint += 5;
+                break;
+        }
+    }
     private void Awake()
     {
         enemyAnim = GetComponent<Animator>();
-        enemyAudio = GetComponent<AudioSource>();
-        Target = GameObject.Find("Player").transform;
+        enemyAudio = GetComponent<AudioSource>();        
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
         if (IsAlive)
         {
+            Target = GameObject.Find("Player").transform;
             var distance = Vector3.Distance(transform.position, Target.position);
             if (distance < 1.5f && IsFoward)
             {
@@ -142,19 +173,19 @@ public class EnemyActive : MonoBehaviour
                     }
                 }
             }
-            if (attackTime > 0f)
-            {
-                attackTime -= Time.deltaTime;
-                State = UnitState.Attack;
-            }
-
-            if (attackTime < 0f)
-            {
-                attackTime = 0f;
-                State = UnitState.Idle;
-            }
-            Enemy_Death();
         }
+        if (attackTime > 0f)
+        {
+            attackTime -= Time.fixedDeltaTime;
+            State = UnitState.Attack;
+        }
+
+        if (attackTime < 0f)
+        {
+            attackTime = 0f;
+            State = UnitState.Idle;
+        }
+        Enemy_Death();
     }
 }
 
