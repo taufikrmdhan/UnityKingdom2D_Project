@@ -55,7 +55,8 @@ public class EnemyActive : MonoBehaviour
         if (isFoward)
         {
             transform.position += towardpos;
-        }else
+        }
+        else
         {
             transform.position -= towardpos;
         }
@@ -73,7 +74,8 @@ public class EnemyActive : MonoBehaviour
             if (Creep == EnemySet.Skeleton)
             {
                 Destroy(gameObject);
-            }else
+            }
+            else
             {
                 enemyAnim.SetTrigger("Falling");
                 Destroy(gameObject, 3f);
@@ -87,7 +89,8 @@ public class EnemyActive : MonoBehaviour
         {
             var flag = isFoward ? direction.x > 0 : direction.x < 0;
             SetAnimParameter(flag ? Vector2.right : Vector2.left);
-        }else if (Mathf.Abs(direction.x) < Mathf.Abs(direction.y))
+        }
+        else if (Mathf.Abs(direction.x) < Mathf.Abs(direction.y))
         {
             var flag = isFoward ? direction.y > 0 : direction.y < 0;
             SetAnimParameter(flag ? Vector2.up : Vector2.down);
@@ -119,19 +122,57 @@ public class EnemyActive : MonoBehaviour
                 break;
             case EnemySet.Native:
                 Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity);
+                Instantiate(gm.Origin_Green, RandomPosition(transform.position), Quaternion.identity);
+                if (UnityEngine.Random.Range(1, 10) <= 5)
+                {
+                    Instantiate(gm.Origin_Elixir, RandomPosition(transform.position), Quaternion.identity);
+                }
                 gm.GamePoint += 5;
                 break;
             case EnemySet.Warrior:
                 Instantiate(gm.Origin_NativeCreep, transform.position, Quaternion.identity);
+                Instantiate(gm.Origin_Green, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Green, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Green, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Red, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Red, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Elixir, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Elixir, RandomPosition(transform.position), Quaternion.identity);
+                if (UnityEngine.Random.Range(1, 10) <= 5)
+                {
+                    Instantiate(gm.Origin_Scroll, RandomPosition(transform.position), Quaternion.identity);
+                }
                 gm.GamePoint += 30;
                 break;
             case EnemySet.Witch:
                 Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity);
-                gm.GamePoint += 30;
+                Instantiate(gm.Origin_Blue, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Blue, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Blue, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Scroll, RandomPosition(transform.position), Quaternion.identity);
+                Instantiate(gm.Origin_Scroll, RandomPosition(transform.position), Quaternion.identity);
+                gm.GamePoint += 15;
                 break;
             case EnemySet.Skeleton:
                 var vfx_fire2 = Instantiate(gm.Origin_Fire2, transform.position, Quaternion.identity);
                 Destroy(vfx_fire2, 1f);
+                Instantiate(gm.Origin_Elixir, RandomPosition(transform.position), Quaternion.identity);
+                if (UnityEngine.Random.Range(1, 10) <= 2)
+                {
+                    Instantiate(gm.Origin_Scroll, RandomPosition(transform.position), Quaternion.identity);
+                }
+                if (UnityEngine.Random.Range(1, 10) <= 5)
+                {
+                    Instantiate(gm.Origin_Green, RandomPosition(transform.position), Quaternion.identity);
+                }
+                if (UnityEngine.Random.Range(1, 10) <= 2)
+                {
+                    Instantiate(gm.Origin_Red, RandomPosition(transform.position), Quaternion.identity);
+                }
+                if (UnityEngine.Random.Range(1, 10) <= 2)
+                {
+                    Instantiate(gm.Origin_Blue, RandomPosition(transform.position), Quaternion.identity);
+                }
                 gm.GamePoint += 5;
                 break;
         }
@@ -139,7 +180,7 @@ public class EnemyActive : MonoBehaviour
     private void Awake()
     {
         enemyAnim = GetComponent<Animator>();
-        enemyAudio = GetComponent<AudioSource>();        
+        enemyAudio = GetComponent<AudioSource>();
     }
 
     private void FixedUpdate()
@@ -160,14 +201,15 @@ public class EnemyActive : MonoBehaviour
                 }
                 else
                 {
-                    if(distance < 6f)
+                    if (distance < 6f)
                     {
                         Enemy_Stance(Enemy_Attack);
                     }
-                    if(distance < 5f)
+                    if (distance < 5f)
                     {
                         Enemy_Movement(false);
-                    }else if(distance > 6f)
+                    }
+                    else if (distance > 6f)
                     {
                         Enemy_Movement(true);
                     }
@@ -188,4 +230,3 @@ public class EnemyActive : MonoBehaviour
         Enemy_Death();
     }
 }
-

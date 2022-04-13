@@ -9,7 +9,7 @@ public class DamageActive : MonoBehaviour
     {
         var damage = Instantiate(popup, position, Quaternion.identity);
         var damageActive = damage.GetComponent<DamageActive>();
-        damageActive.Setup((int) amount, state);
+        damageActive.Setup((int)amount, state);
         return damageActive;
     }
     public void Setup(int damage, DamageState state)
@@ -57,7 +57,8 @@ public class DamageActive : MonoBehaviour
         if (timer > 0.5f)
         {
             transform.localScale += Vector3.one * Time.deltaTime;
-        } else
+        }
+        else
         {
             transform.localScale -= Vector3.one * Time.deltaTime;
         }
