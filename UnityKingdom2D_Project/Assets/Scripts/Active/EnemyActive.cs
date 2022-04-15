@@ -129,7 +129,8 @@ public class EnemyActive : MonoBehaviour
                 creep.GetComponent<EnemyActive>().Spawner = Spawner;
                 creep.GetComponent<EnemyActive>().SlotNum = SlotNum;
                 generator = Spawner.GetComponent<GenerateActive>();
-                generator.Creeps[SlotNum] = Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity, Spawner.transform);
+                generator.Creeps[SlotNum] = Instantiate(creep, transform.position, Quaternion.identity, Spawner.transform);
+                
                 Instantiate(gm.Origin_Green, RandomPosition(transform.position), Quaternion.identity);
                 if (UnityEngine.Random.Range(1, 10) <= 5)
                 {
@@ -142,7 +143,7 @@ public class EnemyActive : MonoBehaviour
                 creep.GetComponent<EnemyActive>().Spawner = Spawner;
                 creep.GetComponent<EnemyActive>().SlotNum = SlotNum;
                 generator = Spawner.GetComponent<GenerateActive>();
-                generator.Creeps[SlotNum] = Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity, Spawner.transform);
+                generator.Creeps[SlotNum] = Instantiate(creep, transform.position, Quaternion.identity, Spawner.transform);
 
                 Instantiate(gm.Origin_Green, RandomPosition(transform.position), Quaternion.identity);
                 Instantiate(gm.Origin_Green, RandomPosition(transform.position), Quaternion.identity);
@@ -162,7 +163,7 @@ public class EnemyActive : MonoBehaviour
                 creep.GetComponent<EnemyActive>().Spawner = Spawner;
                 creep.GetComponent<EnemyActive>().SlotNum = SlotNum;
                 generator = Spawner.GetComponent<GenerateActive>();
-                generator.Creeps[SlotNum] = Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity, Spawner.transform);
+                generator.Creeps[SlotNum] = Instantiate(creep, transform.position, Quaternion.identity, Spawner.transform);
 
                 Instantiate(gm.Origin_Blue, RandomPosition(transform.position), Quaternion.identity);
                 Instantiate(gm.Origin_Blue, RandomPosition(transform.position), Quaternion.identity);
@@ -194,6 +195,7 @@ public class EnemyActive : MonoBehaviour
                 gm.GamePoint += 5;
                 break;
         }
+    
     }
     private void Awake()
     {

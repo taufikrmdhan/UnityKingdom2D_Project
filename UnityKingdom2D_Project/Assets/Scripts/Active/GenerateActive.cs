@@ -65,7 +65,7 @@ public class GenerateActive : MonoBehaviour
                 creep.GetComponent<EnemyActive>().Spawner = gameObject;
                 creep.GetComponent<EnemyActive>().SlotNum = i;
                 var generator = GetComponent<GenerateActive>();
-                generator.Creeps[i] = Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity, transform);
+                generator.Creeps[i] = Instantiate(creep, transform.position, Quaternion.identity, transform);
                 break;
             }
         }
@@ -90,7 +90,7 @@ public class GenerateActive : MonoBehaviour
                 creep.GetComponent<EnemyActive>().Spawner = gameObject;
                 creep.GetComponent<EnemyActive>().SlotNum = i;
                 var generator = GetComponent<GenerateActive>();
-                generator.Creeps[i] = Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity, transform);
+                generator.Creeps[i] = Instantiate(creep, transform.position, Quaternion.identity, transform);
                 break;
             }
         }
@@ -115,7 +115,7 @@ public class GenerateActive : MonoBehaviour
                 creep.GetComponent<EnemyActive>().Spawner = gameObject;
                 creep.GetComponent<EnemyActive>().SlotNum = i;
                 var generator = GetComponent<GenerateActive>();
-                generator.Creeps[i] = Instantiate(gm.Origin_DamagedCreep, transform.position, Quaternion.identity, transform);
+                generator.Creeps[i] = Instantiate(creep, transform.position, Quaternion.identity, transform);
                 break;
             }
         }
