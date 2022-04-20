@@ -22,14 +22,17 @@ public class HitHandler : MonoBehaviour
             }
             else
             {
-                if (count == 0)
-                {
+                //if (count == 0)
+                //{
                     enemy.HealthPoint -= AttackPoint;
                     DamageActive.PopupDamage(gm.Origin_Damage, position, AttackPoint, DamageState.PlayerPhs);
-                    var player = transform.parent.parent.GetComponent<PlayerActive>();
-                    player.StaminaPoint.CurrentProp += 10;
-                }
-                count++;
+                    var player = transform.parent.GetComponent<PlayerActive>();
+                    if (player)
+                    {
+                        player.StaminaPoint.CurrentProp += 10;
+                    }                 
+                //}
+                //count++;
             }
         }
         else if (collision.CompareTag("Player") && collision.isTrigger)

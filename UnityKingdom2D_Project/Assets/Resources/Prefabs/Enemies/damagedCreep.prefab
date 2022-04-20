@@ -585,7 +585,7 @@ MonoBehaviour:
   Creep: 1
   Spawner: {fileID: 0}
   SlotNum: 0
-  IsAlive: 0
+  IsAlive: 1
   IsFoward: 1
   MoveSpeed: 1.5
   HealthPoint: 100
